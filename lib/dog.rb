@@ -1,5 +1,1 @@
-class Dog
-  
-  rover = Dog.new
-
-end
+rover = Dog.new

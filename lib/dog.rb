@@ -1,1 +1,1 @@
-rover = Dog.new
+fido = Dog.new
